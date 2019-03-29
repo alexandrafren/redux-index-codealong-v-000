@@ -1,4 +1,4 @@
-//presentational component
+//getting data from Redux state
 import React, { Component } from 'react';
 import { connect } from 'react-redux'
 
